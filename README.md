@@ -7,7 +7,6 @@ This project predicts student exam performance using Machine Learning.
 - Data preprocessing
 - Feature engineering
 - Model training
-- Hyperparameter tuning
 - Streamlit deployment
 
 ## Technologies
